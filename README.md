@@ -19,5 +19,5 @@ by looking up the parent key and finding the subkey contained in it.
 ## Key Migrations
 Key migration statements this repository contains.
 
-* C55522C7 (superceded) => 3910CDC8
-* 4D46BBB6 (superceded) => 3910CDC8
+* C55522C7 (superceded 4/6/2016) => 3910CDC8
+* 4D46BBB6 (superceded 4/6/2016) => 3910CDC8
